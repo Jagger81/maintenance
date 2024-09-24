@@ -65,6 +65,10 @@
 /*--------------------------------------------------------------
 # General Styling & Shared Classes
 --------------------------------------------------------------*/
+#main_logo{
+  padding:0px
+}
+  
 body {
   color: var(--default-color);
   background-color: var(--background-color);
