@@ -95,7 +95,7 @@ body::before {
 }
 
 a {
-  color: var(--accent-color);
+  color: whitesmoke;
   text-decoration: none;
   transition: 0.3s;
 }
